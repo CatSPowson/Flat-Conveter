@@ -1,1 +1,1 @@
-# Flat-Conveter
+Only use one word a time
